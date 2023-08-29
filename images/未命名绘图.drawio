@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" modified="2023-08-29T06:29:12.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="claKQohDFdBVVwNsHx3y" version="21.6.8" type="github">
+  <diagram name="第 1 页" id="yDXS7n5Anj-UP4l8M4vU">
+    <mxGraphModel dx="1050" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5IG4Na8-FNvRTiGhoOi-1" target="w5IG4Na8-FNvRTiGhoOi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-1" value="获取可能得用户群体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5IG4Na8-FNvRTiGhoOi-2" target="w5IG4Na8-FNvRTiGhoOi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w5IG4Na8-FNvRTiGhoOi-11" target="w5IG4Na8-FNvRTiGhoOi-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-11" value="本群体中营销方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-13" value="完全无意向&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5IG4Na8-FNvRTiGhoOi-14" target="w5IG4Na8-FNvRTiGhoOi-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-14" value="有一些意向" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5IG4Na8-FNvRTiGhoOi-24" target="w5IG4Na8-FNvRTiGhoOi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-24" value="有意向" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w5IG4Na8-FNvRTiGhoOi-25" target="w5IG4Na8-FNvRTiGhoOi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-25" value="页面点击留痕" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="730" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w5IG4Na8-FNvRTiGhoOi-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-26" value="程序列表分类展示" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="w5IG4Na8-FNvRTiGhoOi-34" value="销售跟进" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
